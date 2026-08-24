@@ -1,0 +1,1672 @@
+{
+  "general-chemistry-i": {
+    "slug": "general-chemistry-i",
+    "title": "General Chemistry 1, Chemistry NNNN",
+    "term": "Fall 2027",
+    "pdfHref": "/materials/general-chemistry-i-syllabus-fall-2027.pdf",
+    "blocks": [
+      {
+        "kind": "infoTable",
+        "rows": [
+          [
+            "Instructor: Md. Sharear Saon\nRoom: Somewhere\nEmail: sharearsaon@outlook.com\nPhone: (314)500-3617",
+            "Class schedule: MWF 10:00 am – 10:50 am\nClass location: Somewhere\nOffice hours: Friday 3:00 pm – 4:00 pm\nOffice hours location: Somewhere or zoom"
+          ]
+        ]
+      },
+      {
+        "kind": "heading",
+        "text": "Course Description"
+      },
+      {
+        "kind": "paragraph",
+        "text": "This is the first part of two introductory courses for essential concepts of chemistry. Theories, laws, and definitions explained in this course will be helpful to explore more specific branches of chemistry, for instance, inorganic, organic, physical, analytical, or biochemistry. Previous experience in basic algebra will be helpful to solve problems and deduce logical conclusions using multiple theories or laws. This course will mainly focus on different parameters to understand and predict the physical and chemical properties of different compounds."
+      },
+      {
+        "kind": "heading",
+        "text": "Goals"
+      },
+      {
+        "kind": "listItem",
+        "text": "Introducing the structural features of molecules and atoms.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will be introduced to some important chemical reactions with real-world significance.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Explaining the significance of different thermodynamic parameters.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "This course will introduce different chemical bonds and their relationship with the physical and chemical properties of substances.",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Objectives"
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will understand the structure of different molecules.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will be able to predict the stability of different molecules towards physical and chemical change.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will be able to distinguish between different reactions taking place in the real world.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will be able to determine the impact of a chemical reaction on the environment.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will understand the different steps of a laboratory experiment.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will be able to interpret and analyze scientific data.",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Required Course Materials"
+      },
+      {
+        "kind": "listItem",
+        "text": "General Chemistry, 11th Edition",
+        "emphasis": false
+      },
+      {
+        "kind": "paragraph",
+        "text": "Authors: Darrell Ebbing and Steven D. Gammon"
+      },
+      {
+        "kind": "paragraph",
+        "text": "ISBN-13: 978-1305580343"
+      },
+      {
+        "kind": "paragraph",
+        "text": "ISBN-10: 1305580346"
+      },
+      {
+        "kind": "listItem",
+        "text": "Non-programmable scientific calculator",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "iClicker 2",
+        "emphasis": false
+      },
+      {
+        "kind": "paragraph",
+        "text": "You can purchase this from bookstore. You need to register your iClicker on your Canvas account by September 7th."
+      },
+      {
+        "kind": "listItem",
+        "text": "Canvas account through MySLU tools.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Computer with internet connection to access course materials.",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Technology used in the course"
+      },
+      {
+        "kind": "listItem",
+        "text": "PowerPoint",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Lecture will be presented in the class and posted in Canvas as PowerPoint format",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "iClicker",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Posing questions to create interactive learning environments",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Canvas",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Posting course materials (announcements, grades, assignments, feedback)",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Posting questions (anyone can post and respond to another post)",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Interactive reading assignment (highlight, post questions, respond to other’s questions)",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Google Drive",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Additional materials will be shared via Google Drive links",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Google Sheets can be used to conduct group activities in the class",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Assessments"
+      },
+      {
+        "kind": "subheading",
+        "text": "iClicker questions (50 points, 5% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "Each lecture will contain at least one iClicker question.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Questions can be asked anytime in the lecture period.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "iClicker questions will be asked to remind an old topic or practice one discussing in the class.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "If a student cannot attend a class, they will miss the points for iClicker questions that day.",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "Online quizzes (70 points, 7% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "Before starting a new chapter",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "5 multiple choice questions from the new chapter",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Quiz will be posted online 1 day before the new chapter starts",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Total 14 online quizzes will be posted online, 13 for each chapter and one for surveying student’s expectation. For the later one, student will be awarded full points just to complete.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Due dates will be reminded over email and Canvas notification",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "In-class activities (90 points, 9% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "There will be 9 in-class activities (10 points for each).",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "In-class activities can be formatted as individual or group activities.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "To earn the full point students will require just to participate.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Questions or problems will be posed to practice the topic introduced in the class.",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "Reading assignment (50 points, 5% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "5 Reading assignments will be posted on Canvas (10 points for each).",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Due dates will be announced in the class and in the Canvas homepage as well.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will require to post a certain number (will be determined later) of comments/questions/answers for other questions to get the full credit.",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "In-class quizzes (200 points, 20% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "There will be 10 short quizzes (20 points for each and one after each chapter).",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Each quiz will contain 10 questions (2 points for each).",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Quiz will take place in the class right after finishing one chapter.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "There will be 10 questions (Format of questions: multiple choice questions, fill in the blanks, short answers) and 15 minutes will be provided.",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "Homework assignment (100 points, 10% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "Throughout the semester there will be 5 homework assignments (20 points for each).",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Assignment will contain practice problems to help students revisit the important concepts of the preceding chapters.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Every third Friday at 5:00 pm one assignment will be posted on canvas.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students need to submit their work in canvas by the following Monday no later than 5:00 pm.",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "Exams (440 points, 44% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "There will be five exams throughout the semester.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "85 points for the first four exams and 100 points for the final exam.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Exam will contain multiple choice questions, short and broad questions.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Except for the multiple-choice questions, students’ responses will be graded partially if the final answer is not as expected.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "The first four exam will be one hour long, and the final exam will be one and half hour long.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students should leave their smart watch and smart phone in their backpack which can be stored at the front of the class.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "With proper medical proof students can take the exam online, however, the entire time they should leave their camera turned on.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "The materials for the final exam will be covered from the entire course.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "To encourage students to continue their improvement and learning, if a student’s final grade is higher than the average of the other four exams, then the lowest grade among the other four will be replaced with the average between the final grade and the original grade of that exam.",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Grades"
+      },
+      {
+        "kind": "paragraph",
+        "text": "In the final result, letter grade will be assigned using the following schema."
+      },
+      {
+        "kind": "gradeTable",
+        "rows": [
+          [
+            "Letter grade",
+            "Point range",
+            "%",
+            "Letter grade",
+            "Point range",
+            "%"
+          ],
+          [
+            "A",
+            "900-1000",
+            "90.00-100.00%",
+            "C+",
+            "650-699",
+            "65.00-69.99%"
+          ],
+          [
+            "A-",
+            "850-899",
+            "85.00-89.99%",
+            "C",
+            "600-649",
+            "60.00- 64.99%"
+          ],
+          [
+            "B+",
+            "800-849",
+            "80.00-84.99%",
+            "C-",
+            "550-599",
+            "55.00- 59.99%"
+          ],
+          [
+            "B+",
+            "750-799",
+            "75.00- 79.99%",
+            "D",
+            "450-549",
+            "45.00 - 54.99%"
+          ],
+          [
+            "B-",
+            "700-749",
+            "70.00- 74.99%",
+            "F",
+            "<450",
+            "<45.00%"
+          ]
+        ]
+      },
+      {
+        "kind": "heading",
+        "text": "Academic Integrity"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Academic integrity is honest, truthful and responsible conduct in all academic endeavors. The mission of Saint Louis University is \"the pursuit of truth for the greater glory of God and for the service of humanity.\" Accordingly, all acts of falsehood demean and compromise the corporate endeavors of teaching, research, health care, and community service through which SLU embodies its mission. The University strives to prepare students for lives of personal and professional integrity and therefore regards all breaches of academic integrity as matters of serious concern."
+      },
+      {
+        "kind": "paragraph",
+        "text": "The governing University-level Academic Integrity Policy was adopted in Spring 2015, and can be accessed on the Provost's Office website (http://www.slu.edu/provost/policies.php)."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Additionally, each SLU college, school and center has adopted its own academic integrity policies, available on their respective websites. All SLU students are expected to know and abide by these policies, which detail definitions of violations, processes for reporting violations, sanctions, and appeals. Please direct questions about any facet of academic integrity to your faculty, the chair of the department of your academic program, or the dean/director of the college, school or center in which your program is housed."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Specific College of Arts and Sciences Academic Honesty Policies and Procedures may be found here (http://www.slu.edu/arts-and-sciences/student-resources/academic-honesty.php)."
+      },
+      {
+        "kind": "heading",
+        "text": "Title IX"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Saint Louis University and its faculty are committed to supporting our students and seeking an environment that is free of bias, discrimination, and harassment. If you have encountered any form of sexual misconduct (e.g. sexual assault, sexual harassment, stalking, domestic or dating violence), we encourage you to report this to the University. If you speak with a faculty member about an incident of misconduct, that faculty member must notify SLU’s Title IX coordinator, Anna R. Kratky (DuBourg Hall, room 36; anna.kratky@slu.edu; 314-977-3886) and share the basic facts of your experience with her. The Title IX coordinator will then be available to assist you in understanding all of your options and in connecting you with all possible resources on and off campus."
+      },
+      {
+        "kind": "paragraph",
+        "text": "If you wish to speak with a confidential source, you may contact the counselors at the University Counseling Center at 314-977-TALK. To view SLU’s sexual misconduct policy and for resources, please visit the following web addresses: http://www.slu.edu/about/safety/pdfs/sexual-misconduct-policy-version7.0.pdf."
+      },
+      {
+        "kind": "heading",
+        "text": "Student Success Center"
+      },
+      {
+        "kind": "paragraph",
+        "text": "In recognition that people learn in a variety of ways and that learning is influenced by multiple factors (e.g., prior experience, study skills, learning disability), resources to support student success are available on campus. The Student Success Center assists students with academic and career related services, is located in the Busch Student Center (Suite, 331) and the School of Nursing (Suite, 114). Students who think they might benefit from these resources can find out more about:"
+      },
+      {
+        "kind": "listItem",
+        "text": "Course-level support (e.g., faculty member, departmental resources, etc.) by asking your course instructor.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "University-level support (e.g., tutoring services, university writing services, disability services, academic coaching, career services, and/or facets of curriculum planning) by visiting the Student Success Center.",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Disability Services Academic Accommodations"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Students with a documented disability who wish to request academic accommodations are encouraged to contact Disability Services to discuss accommodation requests and eligibility requirements."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Please contact Disability Services, located within the Student Success Center, at disability_services@slu.edu or 314.977.3484 to schedule an appointment. Confidentiality will be observed in all inquiries."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Once approved, information about the student’s eligibility for academic accommodations will be shared with course instructors via email from Disability Services and viewed within Banner via the instructor’s course roster."
+      },
+      {
+        "kind": "heading",
+        "text": "Course Schedule"
+      },
+      {
+        "kind": "scheduleTable",
+        "rows": [
+          [
+            "Week",
+            "Date",
+            "Day",
+            "Lecture content"
+          ],
+          [
+            "Week 1",
+            "August 30, 2027",
+            "Monday",
+            "Course Introduction, Chapter 1: Chemistry and Measurement"
+          ],
+          [
+            "Week 1",
+            "September 1, 2027",
+            "Wednesday**",
+            "Chapter 1 (Cont), Chapter 2: Atoms, Molecules, and Ions"
+          ],
+          [
+            "Week 1",
+            "September 3, 2027",
+            "Friday**",
+            "Chapter 2 (Cont), Chapter 3: Calculations with Chemical Formulas"
+          ],
+          [
+            "Week 2",
+            "September 6, 2027",
+            "Monday",
+            "Labor day (No class)"
+          ],
+          [
+            "Week 2",
+            "September 8, 2027",
+            "Wednesday",
+            "Chapter 3 (Cont)"
+          ],
+          [
+            "Week 2",
+            "September 10, 2027",
+            "Friday",
+            "Chapter 3 (Cont)"
+          ],
+          [
+            "Week 3",
+            "September 13, 2027",
+            "Monday**",
+            "Chapter 3 (Cont), Chapter 4: Chemical Reactions"
+          ],
+          [
+            "Week 3",
+            "September 15, 2027",
+            "Wednesday",
+            "Chapter 4 (Cont)"
+          ],
+          [
+            "Week 3",
+            "September 17, 2027",
+            "Friday*",
+            "Chapter 4 (Cont)"
+          ],
+          [
+            "Week 4",
+            "September 20, 2027",
+            "Monday**",
+            "Chapter 4 (Cont), Chapter 5: The Gaseous State"
+          ],
+          [
+            "Week 4",
+            "September 22, 2027",
+            "Wednesday",
+            "Chapter 5 (Cont)"
+          ],
+          [
+            "Week 4",
+            "September 24, 2027",
+            "Friday",
+            "Chapter 5 (Cont)"
+          ],
+          [
+            "Week 5",
+            "September 27, 2027",
+            "Monday",
+            "Exam 1"
+          ],
+          [
+            "Week 5",
+            "September 29, 2027",
+            "Wednesday",
+            "Questions review from Exam 1, Chapter 5 (Cont)"
+          ],
+          [
+            "Week 5",
+            "October 1, 2027",
+            "Friday**",
+            "Chapter 5 (Cont), Chapter 6: Thermochemistry"
+          ],
+          [
+            "Week 6",
+            "October 4, 2027",
+            "Monday",
+            "Chapter 6 (Cont)"
+          ],
+          [
+            "Week 6",
+            "October 6, 2027",
+            "Wednesday",
+            "Chapter 6 (Cont)"
+          ],
+          [
+            "Week 6",
+            "October 8, 2027",
+            "Friday* **",
+            "Chapter 6 (Cont), Chapter 7: Quantum Theory of the Atom"
+          ],
+          [
+            "Week 7",
+            "October 11, 2027",
+            "Monday",
+            "Chapter 7 (Cont)"
+          ],
+          [
+            "Week 7",
+            "October 13, 2027",
+            "Wednesday",
+            "Chapter 7 (Cont)"
+          ],
+          [
+            "Week 7",
+            "October 15, 2027",
+            "Friday**",
+            "Chapter 7 (Cont), Chapter 8 :Electron Configurations and Periodicity"
+          ],
+          [
+            "Week 8",
+            "October 18, 2027",
+            "Monday",
+            "Chapter 8 (Cont)"
+          ],
+          [
+            "Week 8",
+            "October 20, 2027",
+            "Wednesday",
+            "Chapter 8 (Cont)"
+          ],
+          [
+            "Week 8",
+            "October 22, 2027",
+            "Friday",
+            "Fall break (No class)"
+          ],
+          [
+            "Week 9",
+            "October 25, 2027",
+            "Monday",
+            "Exam 2"
+          ],
+          [
+            "Week 9",
+            "October 27, 2027",
+            "Wednesday",
+            "Questions review from Exam 2, Chapter 8 (Cont)"
+          ],
+          [
+            "Week 9",
+            "October 29, 2027",
+            "Friday* **",
+            "Chapter 8 (Cont), Chapter 9: Ionic and Covalent Bonding"
+          ],
+          [
+            "Week 10",
+            "November 1, 2027",
+            "Monday",
+            "Chapter 9 (Cont)"
+          ],
+          [
+            "Week 10",
+            "November 3, 2027",
+            "Wednesday",
+            "Chapter 9 (Cont)"
+          ],
+          [
+            "Week 10",
+            "November 5, 2027",
+            "Friday**",
+            "Chapter 9 (Cont), Chapter 10: Molecular Geometry and Chemical Bonding Theory"
+          ],
+          [
+            "Week 11",
+            "November 8, 2027",
+            "Monday",
+            "Chapter 10 (Cont)"
+          ],
+          [
+            "Week 11",
+            "November 10, 2027",
+            "Wednesday",
+            "Chapter 10 (Cont)"
+          ],
+          [
+            "Week 11",
+            "November 12, 2027",
+            "Friday",
+            "Chapter 10 (Cont)"
+          ],
+          [
+            "Week 12",
+            "November 15, 2027",
+            "Monday**",
+            "Chapter 10 (Cont), Chapter 11 (States of Matter; Liquids and Solids)"
+          ],
+          [
+            "Week 12",
+            "November 17, 2027",
+            "Wednesday",
+            "Chapter 11 (Cont)"
+          ],
+          [
+            "Week 12",
+            "November 19, 2027",
+            "Friday*",
+            "Chapter 11 (Cont)"
+          ],
+          [
+            "Week 13",
+            "November 22, 2027",
+            "Monday",
+            "Exam 3"
+          ],
+          [
+            "Week 13",
+            "November 24, 2027",
+            "Wednesday**",
+            "Chapter 11 (Cont), Chapter 12: Solutions"
+          ],
+          [
+            "Week 13",
+            "November 26, 2027",
+            "Friday",
+            "Chapter 12 (Cont)"
+          ],
+          [
+            "Week 14",
+            "November 29, 2027",
+            "Monday",
+            "Chapter 12 (Cont)"
+          ],
+          [
+            "Week 14",
+            "December 1, 2027",
+            "Wednesday",
+            "Chapter 12 (Cont)"
+          ],
+          [
+            "Week 14",
+            "December 3, 2027",
+            "Friday* **",
+            "Chapter 12 (Cont), Chapter 13: Rates of Reaction"
+          ],
+          [
+            "Week 15",
+            "December 6, 2027",
+            "Monday",
+            "Chapter 13 (Cont)"
+          ],
+          [
+            "Week 15",
+            "December 8, 2027",
+            "Wednesday",
+            "Chapter 13 (Cont)"
+          ],
+          [
+            "Week 15",
+            "December 10, 2027",
+            "Friday",
+            "Chapter 13 (Cont)"
+          ],
+          [
+            "Week 16",
+            "December 13, 2027",
+            "Monday",
+            "Exam 4"
+          ],
+          [
+            "Week 16",
+            "December 15, 2027",
+            "Wednesday",
+            "Review"
+          ],
+          [
+            "Week 16",
+            "December 17, 2027",
+            "Friday",
+            "No Class"
+          ],
+          [
+            "Week 16",
+            "December 20, 2027",
+            "Monday",
+            "Final Exam"
+          ]
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "text": "* Assignment will be posted in Canvas"
+      },
+      {
+        "kind": "paragraph",
+        "text": "** Quiz (covered the chapter that was just finished) day"
+      }
+    ]
+  },
+  "biochemistry-i": {
+    "slug": "biochemistry-i",
+    "title": "Biochemistry I, Chemistry NNNN",
+    "term": "Fall 2027",
+    "pdfHref": "/materials/biochemistry-i-syllabus-fall-2027.pdf",
+    "blocks": [
+      {
+        "kind": "infoTable",
+        "rows": [
+          [
+            "Instructor: Md. Sharear Saon\nRoom: Somewhere\nEmail: sharearsaon@outlook.com\nPhone: (314)500-3617",
+            "Class schedule: MWF 10:00 am – 10:50 am\nClass location: Somewhere\nOffice hours: Friday 3:00 pm – 4:00 pm\nOffice hours location: Somewhere or zoom"
+          ]
+        ]
+      },
+      {
+        "kind": "heading",
+        "text": "Course Description"
+      },
+      {
+        "kind": "paragraph",
+        "text": "This course introduces the chemical principles that govern the structure, function, and interactions of biological molecules. Topics include water and biological thermodynamics; amino acids and proteins; carbohydrates, lipids, and membranes; nucleotides and nucleic acids; recombinant DNA methods; and enzyme kinetics, mechanisms, and regulation. Students will connect molecular structure to biological function, solve quantitative biochemical problems, and interpret experimental data. Prior coursework in general chemistry and organic chemistry is recommended."
+      },
+      {
+        "kind": "heading",
+        "text": "Goals"
+      },
+      {
+        "kind": "listItem",
+        "text": "Connect chemical principles to the structures and behavior of biological molecules.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Relate biomolecular structure, dynamics, and interactions to biological function.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Develop quantitative reasoning through thermodynamics, binding, and enzyme kinetics.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Use biochemical evidence to explain mechanisms and evaluate scientific conclusions.",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Objectives"
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will explain how water, noncovalent interactions, and thermodynamics shape biological systems.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will compare amino-acid properties and relate protein sequence to three-dimensional structure and function.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will analyze enzyme kinetics, inhibition, catalytic mechanisms, and regulation using quantitative models.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will describe the structures and cellular roles of carbohydrates, lipids, membranes, nucleotides, and nucleic acids.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will interpret biochemical graphs, molecular structures, and experimental datasets.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will solve biochemical problems and communicate evidence-based conclusions clearly.",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Required Course Materials"
+      },
+      {
+        "kind": "listItem",
+        "text": "Biochemistry, 7th Edition",
+        "emphasis": false
+      },
+      {
+        "kind": "paragraph",
+        "text": "Authors: Reginald H. Garrett and Charles M. Grisham"
+      },
+      {
+        "kind": "paragraph",
+        "text": "ISBN-13: 978-0357728451"
+      },
+      {
+        "kind": "paragraph",
+        "text": "ISBN-10: 0357728459"
+      },
+      {
+        "kind": "listItem",
+        "text": "Non-programmable scientific calculator",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "iClicker 2",
+        "emphasis": false
+      },
+      {
+        "kind": "paragraph",
+        "text": "You can purchase the textbook and iClicker through the bookstore. Register your iClicker in Canvas by September 7th."
+      },
+      {
+        "kind": "listItem",
+        "text": "Canvas account through MySLU tools.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Computer with internet connection to access course materials.",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Technology used in the course"
+      },
+      {
+        "kind": "listItem",
+        "text": "PowerPoint",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Lecture slides and guided notes will be presented in class and posted in Canvas.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "iClicker",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Using conceptual and quantitative questions to support active learning.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Canvas",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Posting course materials (announcements, grades, assignments, feedback)",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Posting questions (anyone can post and respond to another post)",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Interactive reading assignments (highlight, ask questions, and respond to peers).",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Google Drive",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Protein structures, biochemical datasets, and additional readings will be shared through Google Drive links.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Google Sheets can be used for collaborative data-analysis activities in class.",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Assessments"
+      },
+      {
+        "kind": "subheading",
+        "text": "iClicker questions (50 points, 5% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "Each class meeting will include at least one conceptual or quantitative iClicker question.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Questions may be used to revisit prior knowledge, predict an outcome, or interpret biochemical evidence.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will discuss selected questions with peers before responding again.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students who miss class will not receive iClicker points for that day, except when an approved accommodation applies.",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "Online quizzes (100 points, 10% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "Ten short quizzes will be assigned across the major course modules.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Each quiz will include conceptual, structural, and quantitative questions.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Quizzes will be posted in Canvas before the related class meeting or module deadline.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Each quiz is worth 10 points.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Due dates will be announced in class and through Canvas notifications.",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "In-class activities (100 points, 10% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "There will be ten individual or small-group activities worth 10 points each.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Activities may include protein-structure interpretation, pathway mapping, or enzyme-kinetics problems.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will receive credit for a complete, evidence-based attempt and active participation.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Selected activities will conclude with a whole-class discussion and feedback.",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "Reading and reflection assignments (50 points, 5% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "Five reading and reflection assignments will be posted in Canvas (10 points each).",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Assignments may draw on the textbook, a short research article, or a biochemical case study.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students will identify a central claim, supporting evidence, and one remaining question.",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "Data-analysis quizzes (100 points, 10% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "There will be five short data-analysis quizzes worth 20 points each.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Each quiz will ask students to interpret graphs, molecular structures, or experimental results.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Quizzes will follow major units and will emphasize reasoning rather than memorization.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Question formats may include calculations, multiple choice, short answers, and annotated figures.",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "Homework assignments (150 points, 15% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "There will be five homework assignments worth 30 points each.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Assignments will combine quantitative problems, molecular interpretation, and short explanations.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Each assignment will be posted in Canvas at least one week before its due date.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students must submit their work in Canvas by the stated deadline.",
+        "emphasis": false
+      },
+      {
+        "kind": "subheading",
+        "text": "Exams (450 points, 45% of the total)",
+        "emphasis": true
+      },
+      {
+        "kind": "listItem",
+        "text": "There will be four unit exams and one cumulative final exam.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Each unit exam is worth 80 points; the cumulative final exam is worth 130 points.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Exams may include multiple-choice questions, calculations, molecular structures, data interpretation, and written explanations.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Written work may receive partial credit when the reasoning is clear and scientifically supported.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Unit exams will fit within one class period; the final exam will follow the university exam schedule.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Phones, smart watches, and other unauthorized devices must be stored during exams.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "Students needing testing accommodations should coordinate with Disability Services and the instructor before the exam.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "The final exam will be cumulative, with emphasis on connections among biomolecular structure, energetics, and function.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "If a student's final-exam percentage exceeds the lowest unit-exam percentage, the lowest unit-exam score will be replaced by the average of those two percentages.",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Grades"
+      },
+      {
+        "kind": "paragraph",
+        "text": "In the final result, letter grade will be assigned using the following schema."
+      },
+      {
+        "kind": "gradeTable",
+        "rows": [
+          [
+            "Letter grade",
+            "Point range",
+            "%",
+            "Letter grade",
+            "Point range",
+            "%"
+          ],
+          [
+            "A",
+            "900-1000",
+            "90.00-100.00%",
+            "C+",
+            "650-699",
+            "65.00-69.99%"
+          ],
+          [
+            "A-",
+            "850-899",
+            "85.00-89.99%",
+            "C",
+            "600-649",
+            "60.00- 64.99%"
+          ],
+          [
+            "B+",
+            "800-849",
+            "80.00-84.99%",
+            "C-",
+            "550-599",
+            "55.00- 59.99%"
+          ],
+          [
+            "B",
+            "750-799",
+            "75.00- 79.99%",
+            "D",
+            "450-549",
+            "45.00 - 54.99%"
+          ],
+          [
+            "B-",
+            "700-749",
+            "70.00- 74.99%",
+            "F",
+            "<450",
+            "<45.00%"
+          ]
+        ]
+      },
+      {
+        "kind": "heading",
+        "text": "Academic Integrity"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Academic integrity is honest, truthful and responsible conduct in all academic endeavors. The mission of Saint Louis University is \"the pursuit of truth for the greater glory of God and for the service of humanity.\" Accordingly, all acts of falsehood demean and compromise the corporate endeavors of teaching, research, health care, and community service through which SLU embodies its mission. The University strives to prepare students for lives of personal and professional integrity and therefore regards all breaches of academic integrity as matters of serious concern."
+      },
+      {
+        "kind": "paragraph",
+        "text": "The governing University-level Academic Integrity Policy was adopted in Spring 2015, and can be accessed on the Provost's Office website (http://www.slu.edu/provost/policies.php)."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Additionally, each SLU college, school and center has adopted its own academic integrity policies, available on their respective websites. All SLU students are expected to know and abide by these policies, which detail definitions of violations, processes for reporting violations, sanctions, and appeals. Please direct questions about any facet of academic integrity to your faculty, the chair of the department of your academic program, or the dean/director of the college, school or center in which your program is housed."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Specific College of Arts and Sciences Academic Honesty Policies and Procedures may be found here (http://www.slu.edu/arts-and-sciences/student-resources/academic-honesty.php)."
+      },
+      {
+        "kind": "heading",
+        "text": "Title IX"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Saint Louis University and its faculty are committed to supporting our students and seeking an environment that is free of bias, discrimination, and harassment. If you have encountered any form of sexual misconduct (e.g. sexual assault, sexual harassment, stalking, domestic or dating violence), we encourage you to report this to the University. If you speak with a faculty member about an incident of misconduct, that faculty member must notify SLU’s Title IX coordinator, Anna R. Kratky (DuBourg Hall, room 36; anna.kratky@slu.edu; 314-977-3886) and share the basic facts of your experience with her. The Title IX coordinator will then be available to assist you in understanding all of your options and in connecting you with all possible resources on and off campus."
+      },
+      {
+        "kind": "paragraph",
+        "text": "If you wish to speak with a confidential source, you may contact the counselors at the University Counseling Center at 314-977-TALK. To view SLU’s sexual misconduct policy and for resources, please visit the following web addresses: http://www.slu.edu/about/safety/pdfs/sexual-misconduct-policy-version7.0.pdf."
+      },
+      {
+        "kind": "heading",
+        "text": "Student Success Center"
+      },
+      {
+        "kind": "paragraph",
+        "text": "In recognition that people learn in a variety of ways and that learning is influenced by multiple factors (e.g., prior experience, study skills, learning disability), resources to support student success are available on campus. The Student Success Center assists students with academic and career related services, is located in the Busch Student Center (Suite, 331) and the School of Nursing (Suite, 114). Students who think they might benefit from these resources can find out more about:"
+      },
+      {
+        "kind": "listItem",
+        "text": "Course-level support (e.g., faculty member, departmental resources, etc.) by asking your course instructor.",
+        "emphasis": false
+      },
+      {
+        "kind": "listItem",
+        "text": "University-level support (e.g., tutoring services, university writing services, disability services, academic coaching, career services, and/or facets of curriculum planning) by visiting the Student Success Center.",
+        "emphasis": false
+      },
+      {
+        "kind": "heading",
+        "text": "Disability Services Academic Accommodations"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Students with a documented disability who wish to request academic accommodations are encouraged to contact Disability Services to discuss accommodation requests and eligibility requirements."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Please contact Disability Services, located within the Student Success Center, at disability_services@slu.edu or 314.977.3484 to schedule an appointment. Confidentiality will be observed in all inquiries."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Once approved, information about the student’s eligibility for academic accommodations will be shared with course instructors via email from Disability Services and viewed within Banner via the instructor’s course roster."
+      },
+      {
+        "kind": "heading",
+        "text": "Course Schedule"
+      },
+      {
+        "kind": "scheduleTable",
+        "rows": [
+          [
+            "Week",
+            "Date",
+            "Day",
+            "Lecture content"
+          ],
+          [
+            "Week 1",
+            "August 30, 2027",
+            "Monday",
+            "Course introduction; Chapter 1: The Chemical Logic of Life"
+          ],
+          [
+            "Week 1",
+            "September 1, 2027",
+            "Wednesday**",
+            "Chapter 1 (Cont): Molecular Interactions and Biochemical Evidence"
+          ],
+          [
+            "Week 1",
+            "September 3, 2027",
+            "Friday**",
+            "Chapter 2: Water and Noncovalent Interactions"
+          ],
+          [
+            "Week 2",
+            "September 6, 2027",
+            "Monday",
+            "Labor Day (No class)"
+          ],
+          [
+            "Week 2",
+            "September 8, 2027",
+            "Wednesday",
+            "Chapter 2 (Cont): Acids, Bases, pH, and Buffers"
+          ],
+          [
+            "Week 2",
+            "September 10, 2027",
+            "Friday",
+            "Chapter 3: Biological Thermodynamics"
+          ],
+          [
+            "Week 3",
+            "September 13, 2027",
+            "Monday**",
+            "Chapter 3 (Cont): Free Energy, Equilibria, and Coupled Reactions"
+          ],
+          [
+            "Week 3",
+            "September 15, 2027",
+            "Wednesday",
+            "Chapter 4: Amino Acids and Peptide Bonds"
+          ],
+          [
+            "Week 3",
+            "September 17, 2027",
+            "Friday*",
+            "Chapter 4 (Cont): Ionization, Titration Curves, and Peptides"
+          ],
+          [
+            "Week 4",
+            "September 20, 2027",
+            "Monday**",
+            "Chapter 5: Protein Primary Structure and Function"
+          ],
+          [
+            "Week 4",
+            "September 22, 2027",
+            "Wednesday",
+            "Chapter 5 (Cont): Protein Sequencing and Proteomics"
+          ],
+          [
+            "Week 4",
+            "September 24, 2027",
+            "Friday",
+            "Chapter 5 (Cont): Sequence Variation and Function"
+          ],
+          [
+            "Week 5",
+            "September 27, 2027",
+            "Monday",
+            "Exam 1"
+          ],
+          [
+            "Week 5",
+            "September 29, 2027",
+            "Wednesday",
+            "Exam 1 review; Chapter 6: Higher-Order Protein Structure"
+          ],
+          [
+            "Week 5",
+            "October 1, 2027",
+            "Friday**",
+            "Chapter 6 (Cont): Secondary, Tertiary, and Quaternary Structure"
+          ],
+          [
+            "Week 6",
+            "October 4, 2027",
+            "Monday",
+            "Chapter 6 (Cont): Protein Folding, Stability, and Dynamics"
+          ],
+          [
+            "Week 6",
+            "October 6, 2027",
+            "Wednesday*",
+            "Chapter 6 (Cont): Methods for Studying Protein Structure"
+          ],
+          [
+            "Week 6",
+            "October 8, 2027",
+            "Friday**",
+            "Chapter 7: Carbohydrates and Glycoconjugates"
+          ],
+          [
+            "Week 7",
+            "October 11, 2027",
+            "Monday",
+            "Chapter 7 (Cont): Recognition and Cell-Surface Chemistry"
+          ],
+          [
+            "Week 7",
+            "October 13, 2027",
+            "Wednesday**",
+            "Chapter 8: Lipids"
+          ],
+          [
+            "Week 7",
+            "October 15, 2027",
+            "Friday",
+            "Chapter 8 (Cont): Lipid Structure, Assembly, and Signaling"
+          ],
+          [
+            "Week 8",
+            "October 18, 2027",
+            "Monday",
+            "Chapter 9: Membranes and Membrane Transport"
+          ],
+          [
+            "Week 8",
+            "October 20, 2027",
+            "Wednesday",
+            "Chapter 9 (Cont): Channels, Carriers, and Active Transport"
+          ],
+          [
+            "Week 8",
+            "October 22, 2027",
+            "Friday",
+            "Fall break (No class)"
+          ],
+          [
+            "Week 9",
+            "October 25, 2027",
+            "Monday",
+            "Exam 2"
+          ],
+          [
+            "Week 9",
+            "October 27, 2027",
+            "Wednesday",
+            "Exam 2 review; Chapter 10: Nucleotides and Nucleic Acids"
+          ],
+          [
+            "Week 9",
+            "October 29, 2027",
+            "Friday* **",
+            "Chapter 10 (Cont): Nucleotide Chemistry and Biological Roles"
+          ],
+          [
+            "Week 10",
+            "November 1, 2027",
+            "Monday",
+            "Chapter 11: Structure of Nucleic Acids"
+          ],
+          [
+            "Week 10",
+            "November 3, 2027",
+            "Wednesday",
+            "Chapter 11 (Cont): DNA and RNA Structure, Dynamics, and Recognition"
+          ],
+          [
+            "Week 10",
+            "November 5, 2027",
+            "Friday**",
+            "Chapter 12: Recombinant DNA, Gene Editing, and Synthetic Biology"
+          ],
+          [
+            "Week 11",
+            "November 8, 2027",
+            "Monday",
+            "Chapter 12 (Cont): Experimental Design and Molecular-Biology Tools"
+          ],
+          [
+            "Week 11",
+            "November 10, 2027",
+            "Wednesday",
+            "Data-analysis activity: Evaluating a Gene-Editing Experiment"
+          ],
+          [
+            "Week 11",
+            "November 12, 2027",
+            "Friday",
+            "Chapter 13: Enzymes - Kinetics and Specificity"
+          ],
+          [
+            "Week 12",
+            "November 15, 2027",
+            "Monday",
+            "Chapter 13 (Cont): Michaelis-Menten Kinetics and Inhibition"
+          ],
+          [
+            "Week 12",
+            "November 17, 2027",
+            "Wednesday*",
+            "Enzyme-kinetics problem solving and data interpretation"
+          ],
+          [
+            "Week 12",
+            "November 19, 2027",
+            "Friday**",
+            "Chapter 14: Enzyme Mechanisms and Catalytic Strategies"
+          ],
+          [
+            "Week 13",
+            "November 22, 2027",
+            "Monday",
+            "Exam 3"
+          ],
+          [
+            "Week 13",
+            "November 24, 2027",
+            "Wednesday",
+            "Thanksgiving break (No class)"
+          ],
+          [
+            "Week 13",
+            "November 26, 2027",
+            "Friday",
+            "Thanksgiving break (No class)"
+          ],
+          [
+            "Week 14",
+            "November 29, 2027",
+            "Monday",
+            "Chapter 15: Enzyme Regulation"
+          ],
+          [
+            "Week 14",
+            "December 1, 2027",
+            "Wednesday",
+            "Chapter 15 (Cont): Allostery and Covalent Regulation"
+          ],
+          [
+            "Week 14",
+            "December 3, 2027",
+            "Friday**",
+            "Chapter 16: Molecular Motors"
+          ],
+          [
+            "Week 15",
+            "December 6, 2027",
+            "Monday",
+            "Chapter 16 (Cont): Chemomechanical Coupling and Cellular Motion"
+          ],
+          [
+            "Week 15",
+            "December 8, 2027",
+            "Wednesday*",
+            "Integrative case study: From Molecular Structure to Cellular Function"
+          ],
+          [
+            "Week 15",
+            "December 10, 2027",
+            "Friday",
+            "Protein structure-function project presentations and course synthesis"
+          ],
+          [
+            "Week 16",
+            "December 13, 2027",
+            "Monday",
+            "Exam 4"
+          ],
+          [
+            "Week 16",
+            "December 15, 2027",
+            "Wednesday",
+            "Cumulative review and concept integration"
+          ],
+          [
+            "Week 16",
+            "December 17, 2027",
+            "Friday",
+            "No class"
+          ],
+          [
+            "Week 16",
+            "December 20, 2027",
+            "Monday",
+            "Final Exam"
+          ]
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "text": "* Assignment will be posted in Canvas"
+      },
+      {
+        "kind": "paragraph",
+        "text": "** Quiz (covered the chapter that was just finished) day"
+      }
+    ]
+  }
+}
