@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import Link from "next/link";
+import Link from "../static-link";
 import InternalNav from "../internal-nav";
 import syllabusContent from "./syllabus-content.json";
 

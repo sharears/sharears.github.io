@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "../static-link";
 import InternalNav from "../internal-nav";
 import InternalPageHeader from "../internal-page-header";
 
