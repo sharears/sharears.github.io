@@ -11,8 +11,6 @@ export const metadata: Metadata = {
 const publishedWork = [
   {
     year: "2025",
-    type: "Research article",
-    focus: "Rare base-pair chemistry",
     title: "Identification and characterization of shifted G•U wobble pairs resulting from alternative protonation of RNA",
     journal: "Nucleic Acids Research",
     authors: "M. S. Saon, C. A. Douds, A. J. Veenis, A. N. Pearson, N. H. Yennawar & P. C. Bevilacqua",
@@ -20,8 +18,6 @@ const publishedWork = [
   },
   {
     year: "2025",
-    type: "Research article",
-    focus: "Functional RNA chemistry",
     title: "Prevalence of dual-donating amines in key regions of functional RNAs",
     journal: "RNA",
     authors: "A. J. Veenis, M. S. Saon & P. C. Bevilacqua",
@@ -29,8 +25,6 @@ const publishedWork = [
   },
   {
     year: "2024",
-    type: "Conference paper · Preprint",
-    focus: "RNA structure prediction",
     title: "Exploring the efficiency of deep graph neural networks for RNA secondary structure prediction",
     journal: "bioRxiv · Accepted at ICIBM 2024",
     authors: "M. S. Saon, K. Boehm, G. Fu, I. Hou, J. Yu, B. M. Znosko & J. Hou",
@@ -38,8 +32,6 @@ const publishedWork = [
   },
   {
     year: "2023",
-    type: "Research article",
-    focus: "RNA motif families",
     title: "Identification and characterization of RNA pentaloop sequence families",
     journal: "NAR Genomics and Bioinformatics",
     authors: "M. S. Saon, C. C. Kirkpatrick & B. M. Znosko",
@@ -47,8 +39,6 @@ const publishedWork = [
   },
   {
     year: "2022",
-    type: "Research article",
-    focus: "RNA loop thermodynamics",
     title: "Thermodynamic characterization of naturally occurring RNA pentaloops",
     journal: "RNA",
     authors: "M. S. Saon & B. M. Znosko",
@@ -56,8 +46,6 @@ const publishedWork = [
   },
   {
     year: "2022",
-    type: "Doctoral dissertation",
-    focus: "RNA structure & prediction",
     title: "Structure and stability of RNA pentaloops and improved tools to predict RNA secondary and tertiary structures",
     journal: "Saint Louis University",
     authors: "M. S. Saon",
@@ -65,8 +53,6 @@ const publishedWork = [
   },
   {
     year: "2016",
-    type: "Research article",
-    focus: "Analytical chemistry",
     title: "Evaluation of vitamin B1, B2 and B6 tablets in Bangladesh by UV-Vis spectrophotometer",
     journal: "Indian Journal of Pharmaceutical and Biological Research",
     authors: "N. Nahar, A. Sultana, M. S. Saon & M. Shoeb",
@@ -91,7 +77,6 @@ export default function PublicationsPage() {
             <article className="archiveItem" key={paper.title}>
               <div className="archiveIndex"><span>{String(index + 1).padStart(2, "0")}</span><strong>{paper.year}</strong></div>
               <div className="archiveContent">
-                <div className="archiveMeta"><span>{paper.type}</span><span>{paper.focus}</span></div>
                 <p>{paper.journal}</p>
                 <h2>{paper.title}</h2>
                 <small>{paper.authors}</small>
