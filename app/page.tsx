@@ -113,7 +113,7 @@ export function PortfolioPage({ view = "home" }: { view?: PortfolioView }) {
       <section className="homeCover" id="top" aria-label="RNA sequence to structure">
         <div className="homeCoverArt">
           <img
-            src="/port-cover.jpg"
+            src="/prot-cover2.jpg"
             alt="RNA primary sequence on the left transitioning toward a three-dimensional RNA structure on the right"
             fetchPriority="high"
           />
