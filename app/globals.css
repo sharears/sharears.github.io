@@ -200,3 +200,13 @@
     font-size: 11px;
   }
 }
+
+/* Center the Academic journey heading and each timeline block. */
+.homeJourneyHeading,
+.homeJourneyTimeline > div {
+  text-align: center;
+}
+
+.homeJourneyTimeline > div {
+  align-items: center;
+}
