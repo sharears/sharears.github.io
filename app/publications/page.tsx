@@ -4,8 +4,8 @@ import InternalNav from "../internal-nav";
 import InternalPageHeader from "../internal-page-header";
 
 export const metadata: Metadata = {
-  title: "Published Work | Sharear Saon",
-  description: "Published research by Sharear Saon on RNA motifs, thermodynamics, noncanonical base pairs, and computational structure prediction.",
+  title: "Publications | Sharear Saon",
+  description: "The complete Google Scholar publication record of Sharear Saon, including journal articles, computational work, and doctoral research.",
 };
 
 const publishedWork = [
@@ -54,6 +54,24 @@ const publishedWork = [
     authors: "M. S. Saon & B. M. Znosko",
     href: "https://doi.org/10.1261/rna.078915.121",
   },
+  {
+    year: "2022",
+    type: "Doctoral dissertation",
+    focus: "RNA structure & prediction",
+    title: "Structure and stability of RNA pentaloops and improved tools to predict RNA secondary and tertiary structures",
+    journal: "Saint Louis University",
+    authors: "M. S. Saon",
+    href: "https://scholar.google.com/citations?hl=en&user=R4YwA5EAAAAJ",
+  },
+  {
+    year: "2016",
+    type: "Research article",
+    focus: "Analytical chemistry",
+    title: "Evaluation of vitamin B1, B2 and B6 tablets in Bangladesh by UV-Vis spectrophotometer",
+    journal: "Indian Journal of Pharmaceutical and Biological Research · 4(4), 32–38",
+    authors: "N. Nahar, A. Sultana, M. S. Saon & M. Shoeb",
+    href: "https://doi.org/10.30750/ijpbr.4.4.8",
+  },
 ];
 
 export default function PublicationsPage() {
@@ -63,7 +81,11 @@ export default function PublicationsPage() {
       <InternalPageHeader title="Publications" />
 
       <section className="publicationsArchive" aria-label="Published research">
-        <div className="archiveSummary"><span>{publishedWork.length} works</span><span>2022–2025</span></div>
+        <div className="archiveSummary">
+          <span>{publishedWork.length} works</span>
+          <span>2016–2025</span>
+          <a href="https://scholar.google.com/citations?hl=en&user=R4YwA5EAAAAJ" target="_blank" rel="noreferrer">Google Scholar ↗</a>
+        </div>
         <div className="archiveList">
           {publishedWork.map((paper, index) => (
             <article className="archiveItem" key={paper.title}>
