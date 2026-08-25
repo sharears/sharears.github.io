@@ -68,7 +68,7 @@ const publishedWork = [
     type: "Research article",
     focus: "Analytical chemistry",
     title: "Evaluation of vitamin B1, B2 and B6 tablets in Bangladesh by UV-Vis spectrophotometer",
-    journal: "Indian Journal of Pharmaceutical and Biological Research · 4(4), 32–38",
+    journal: "Indian Journal of Pharmaceutical and Biological Research",
     authors: "N. Nahar, A. Sultana, M. S. Saon & M. Shoeb",
     href: "https://doi.org/10.30750/ijpbr.4.4.8",
   },
