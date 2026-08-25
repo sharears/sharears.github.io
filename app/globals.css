@@ -133,3 +133,70 @@
   .profileHero{height:calc(41vh - 27.06px);height:calc(41svh - 27.06px)}
 }
 @media(max-width:800px){.homeCoverArt,.homeCover img{height:auto}}
+
+/* Home-page fonts: desktop */
+@media (min-width: 801px) {
+  .homeNav .brand {
+    font-size: 29px;
+  }
+
+  .homeNav .navCta {
+    font-size: 13px;
+  }
+
+  .homeSectionLinks a {
+    font-size: 27px;
+  }
+
+  .homeIntroBlock > p:last-child {
+    font-size: 20px;
+  }
+
+  .homeJourneyHeading .sectionLabel {
+    font-size: 16px;
+  }
+
+  .homeJourneyTimeline span {
+    font-size: 11px;
+  }
+
+  .homeJourneyTimeline h3 {
+    font-size: 17px;
+  }
+
+  .homeJourneyTimeline p {
+    font-size: 12px;
+  }
+
+  .socialIcons a {
+    width: 32px;
+    height: 32px;
+  }
+}
+
+/* Home-page fonts: phones and tablets */
+@media (max-width: 800px) {
+  .homeSectionLinks a {
+    font-size: 28px;
+  }
+
+  .homeIntroBlock > p:last-child {
+    font-size: 23px;
+  }
+
+  .homeJourneyHeading .sectionLabel {
+    font-size: 16px;
+  }
+
+  .homeJourneyTimeline span {
+    font-size: 10px;
+  }
+
+  .homeJourneyTimeline h3 {
+    font-size: 17px;
+  }
+
+  .homeJourneyTimeline p {
+    font-size: 11px;
+  }
+}
