@@ -183,10 +183,10 @@ export function PortfolioPage({ view = "home" }: { view?: PortfolioView }) {
             <p className="sectionLabel" id="home-journey-title">Academic journey</p>
           </div>
           <div className="homeJourneyTimeline">
-            <div><span>2009–2013</span><h3>B.S. in Chemistry</h3><p>University of Dhaka</p></div>
-            <div><span>2013–2015</span><h3>M.S. in Organic Chemistry</h3><p>University of Dhaka</p></div>
-            <div><span>2017–2022</span><h3>Ph.D. in Chemistry</h3><p>Saint Louis University</p></div>
-            <div><span>2022–present</span><h3>Postdoctoral Scholar</h3><p>Pennsylvania State University</p></div>
+            <div><span>2009–2013</span><h3>B.S. in Chemistry</h3><p><a href="https://www.du.ac.bd/" target="_blank" rel="noreferrer">University of Dhaka</a></p></div>
+            <div><span>2013–2015</span><h3>M.S. in Organic Chemistry</h3><p><a href="https://www.du.ac.bd/" target="_blank" rel="noreferrer">University of Dhaka</a></p></div>
+            <div><span>2017–2022</span><h3>Ph.D. in Chemistry</h3><p><a href="https://www.slu.edu/" target="_blank" rel="noreferrer">Saint Louis University</a></p></div>
+            <div><span>2022–present</span><h3>Postdoctoral Scholar</h3><p><a href="https://www.psu.edu/" target="_blank" rel="noreferrer">Pennsylvania State University</a></p></div>
           </div>
         </div>
       </section>

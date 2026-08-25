@@ -141,7 +141,7 @@
   }
 
   .homeNav .navCta {
-    font-size: 16px;
+    font-size: 13px;
   }
 
   .homeSectionLinks a {
@@ -153,19 +153,19 @@
   }
 
   .homeJourneyHeading .sectionLabel {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .homeJourneyTimeline span {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .homeJourneyTimeline h3 {
-    font-size: 18px;
+    font-size: 17px;
   }
 
   .homeJourneyTimeline p {
-    font-size: 16px;
+    font-size: 12px;
   }
 
   .socialIcons a {
@@ -209,4 +209,39 @@
 
 .homeJourneyTimeline > div {
   align-items: center;
+}
+
+/* Make each institution visibly interactive while preserving timeline spacing. */
+.homeJourneyTimeline p {
+  display: flex;
+  justify-content: center;
+}
+
+.homeJourneyTimeline p a {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding-bottom: 2px;
+  border-bottom: 1px solid rgba(31, 102, 81, 0.45);
+  color: var(--forest);
+  transition: color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.homeJourneyTimeline p a::after {
+  content: "↗";
+  color: var(--rust);
+  font-size: 0.9em;
+  transition: transform 0.2s ease;
+}
+
+.homeJourneyTimeline p a:hover,
+.homeJourneyTimeline p a:focus-visible {
+  color: var(--rust);
+  border-color: var(--rust);
+  transform: translateY(-2px);
+}
+
+.homeJourneyTimeline p a:hover::after,
+.homeJourneyTimeline p a:focus-visible::after {
+  transform: translate(2px, -2px);
 }
