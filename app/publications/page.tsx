@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Link from "../static-link";
 import InternalNav from "../internal-nav";
 import InternalPageHeader from "../internal-page-header";
 
@@ -87,12 +86,6 @@ export default function PublicationsPage() {
         </div>
       </section>
 
-      <footer className="publicationsFooter">
-        <p className="sectionLabel light">Research & collaboration</p>
-        <h2>Questions begin with <em>molecular detail.</em></h2>
-        <a className="button cream" href="mailto:sharearsaon@outlook.com">Contact me <span>↗</span></a>
-        <div className="footerBottom"><span>Sharear Saon</span><Link href="/" prefetch={true}>Return to portfolio</Link></div>
-      </footer>
     </main>
   );
 }
