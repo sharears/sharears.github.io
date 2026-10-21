@@ -194,61 +194,18 @@ export function PortfolioPage({ view = "home" }: { view?: PortfolioView }) {
 
       {view === "research" && (<>
       <section className="section researchSection" id="research">
-        <div className="overviewHeading">
-          <h2>Overview</h2>
-        </div>
-
-        <div className="researchOverviewGrid">
-          <div className="researchNarrative">
-            <p className="overviewLead">My research examines how recurring sequence features and subtle changes in nucleobase chemistry shape RNA structure, stability, and function.</p>
-            <p>I search experimentally determined RNA 3D structures for small motifs and noncanonical base pairs, then examine their geometry, chemical environment, and structural context. This framework has enabled me to define RNA pentaloop sequence families and their thermodynamic behavior, identify dual-donating amines in functional RNAs, and characterize shifted G•U wobble pairs associated with alternative protonation.</p>
-            <p>I combine structural bioinformatics with structure-quality assessment, chemical probing, thermodynamics, and computational modeling to distinguish meaningful interactions from structural noise. Across these projects, the same <strong>discover–characterize–translate</strong> approach turns recurring patterns into testable rules, curated datasets, and computational models for understanding and predicting RNA structure and function.</p>
-            <Link className="overviewPublicationsLink" href="/publications" prefetch={true}>View all published work <span>↗</span></Link>
-          </div>
-
-          <div className="overviewWorkflow" aria-label="Overview of research approach">
-            <p className="workflowKicker">Research approach</p>
-
-            <article className="overviewStep">
-              <div className="overviewIcon" aria-hidden="true">
-                <svg viewBox="0 0 104 104">
-                  <path className="rnaLine" d="M14 24c18-15 31-9 40 9s21 24 36 8"/>
-                  <path className="rnaLine secondary" d="M13 45c18-14 32-7 41 10s21 20 37 5"/>
-                  <circle className="rnaNode adenine" cx="28" cy="21" r="5"/><circle className="rnaNode guanine" cx="48" cy="28" r="5"/><circle className="rnaNode cytosine" cx="60" cy="53" r="5"/><circle className="rnaNode uracil" cx="79" cy="47" r="5"/>
-                  <rect className="motifWindow" x="47" y="34" width="40" height="37" rx="6"/>
-                  <path className="scanMark" d="m61 83 9 9 20-24"/>
-                </svg>
-              </div>
-              <div><span className="overviewNumber">01 · Discover</span><h3>Find motifs in RNA 3D structures</h3><p>Search experimentally determined structures for recurring local interactions.</p></div>
-            </article>
-
-            <div className="overviewConnector" aria-hidden="true"></div>
-
-            <article className="overviewStep">
-              <div className="overviewIcon" aria-hidden="true">
-                <svg viewBox="0 0 104 104">
-                  <circle className="baseDisk guanine" cx="31" cy="43" r="18"/><circle className="baseDisk uracil" cx="77" cy="50" r="16"/>
-                  <text className="baseLetter small" x="31" y="49">G</text><text className="baseLetter small" x="77" y="56">U</text>
-                  <path className="measureLine" d="m49 39 11 2m-12 11 13 2"/><path className="angleMark" d="M22 77a28 28 0 0 0 29 2"/>
-                  <circle className="qualityDot" cx="80" cy="81" r="4"/><circle className="qualityDot muted" cx="92" cy="72" r="3"/>
-                </svg>
-              </div>
-              <div><span className="overviewNumber">02 · Characterize</span><h3>Analyze structural and chemical contexts</h3><p>Evaluate geometry, chemistry, structural environment, and model quality.</p></div>
-            </article>
-
-            <div className="overviewConnector" aria-hidden="true"></div>
-
-            <article className="overviewStep">
-              <div className="overviewIcon" aria-hidden="true">
-                <svg viewBox="0 0 104 104">
-                  <path className="plotAxis" d="M14 82V20m0 62h52"/><circle className="trendDot" cx="25" cy="70" r="4"/><circle className="trendDot" cx="37" cy="61" r="4"/><circle className="trendDot" cx="49" cy="49" r="4"/><circle className="trendDot" cx="61" cy="31" r="4"/>
-                  <path className="trendLine" d="M21 74c17-9 29-22 43-47"/><path className="predictionArrow" d="M69 51h20m-7-7 7 7-7 7"/>
-                  <path className="predictionShape" d="M77 88V72c0-15 18-15 18 0v16m-18-7h18"/>
-                </svg>
-              </div>
-              <div><span className="overviewNumber">03 · Translate</span><h3>Turn trends into predictive insight</h3><p>Identify patterns that inform RNA structure and function prediction.</p></div>
-            </article>
-          </div>
+        <div className="researchOverviewContent">
+          <p className="researchOverviewText">My research focuses on understanding how molecular interactions influence RNA structure and function. Using experimentally determined RNA 3D structures, I develop computational approaches to organize RNA interactions and their structural contexts, discover recurring structural motifs at scale, and improve the prediction of challenging RNA structures. Together, these efforts aim to advance our understanding of RNA structure and provide insights that could support RNA-targeted drug discovery and therapeutic design.</p>
+          <img
+            className="researchOverviewFigure"
+            src="/research-overview-portfolio.png"
+            alt="Research framework: experimentally determined RNA structures support organizing RNA interactions and contexts, searching for RNA 3D motifs, and predicting challenging RNA motifs, with applications in RNA-targeted drug discovery and therapeutic design."
+            width={2048}
+            height={1609}
+            loading="lazy"
+            decoding="async"
+          />
+          <Link className="overviewPublicationsLink" href="/publications" prefetch={true}>View all published work <span>↗</span></Link>
         </div>
       </section>
       </>)}

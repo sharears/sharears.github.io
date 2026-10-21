@@ -245,3 +245,10 @@
 .homeJourneyTimeline p a:focus-visible::after {
   transform: translate(2px, -2px);
 }
+
+/* Research overview: summary, full-size figure, and publications link. */
+.researchOverviewContent{width:min(100%,1040px);margin:0 auto}
+.researchOverviewText{max-width:900px;margin:0 0 34px;font-size:clamp(16px,1.45vw,19px);line-height:1.75;color:#526159}
+.researchOverviewFigure{display:block;width:100%;height:auto;margin:0 0 34px}
+.researchOverviewContent .overviewPublicationsLink{margin-top:0}
+@media(max-width:620px){.researchOverviewText{margin-bottom:24px;line-height:1.7}.researchOverviewFigure{margin-bottom:25px}}
