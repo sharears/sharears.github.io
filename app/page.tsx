@@ -172,7 +172,7 @@ export function PortfolioPage({ view = "home" }: { view?: PortfolioView }) {
             </nav>
           </div>
           <div className="homeIntroBlock">
-            <p>I&apos;m <strong>Sharear Saon</strong>, a postdoctoral scholar in chemistry at Penn State. My research connects RNA chemistry and biology with molecular structure and function. Explore this portfolio to learn more about my research and teaching.</p>
+            <p>I&apos;m <strong>Sharear Saon</strong>, a computational researcher and postdoctoral scholar in chemistry at Penn State. I investigate how RNA chemistry, noncanonical base pairing, and molecular interactions influence RNA structure and function. My work combines structural bioinformatics, computational modeling, and experimental evidence, alongside a commitment to teaching and mentoring. Explore my research, teaching, and academic contributions.</p>
           </div>
         </div>
       </section>
@@ -261,6 +261,7 @@ export function PortfolioPage({ view = "home" }: { view?: PortfolioView }) {
             <h3>Clear, active, and collaborative learning.</h3>
             <p>Meaningful learning occurs when students actively engage with course material and learn collaboratively in a welcoming, supportive classroom. I use a clear course structure, guided problem-solving, discussion, and frequent low-stakes feedback to help students connect chemical concepts to experiments and real-world contexts.</p>
             <p>My role is to encourage students to ask questions, explain their reasoning, learn with peers, and become more independent. Across classroom teaching and research mentoring, I break unfamiliar problems into manageable steps and gradually transfer responsibility so students build confidence and skills they can carry into their future education and careers.</p>
+            <p>My formal teaching preparation includes the Certificate in University Teaching Skills (CUTS) at Saint Louis University and the Course in College Teaching (CCT), completed at Penn State in October 2026.</p>
             <nav className="teachingStatementNav" aria-label="Teaching resources">
               <Link href="/teaching/statement" prefetch={true}><strong>Complete statement</strong><span>Read ↗</span></Link>
               <Link href="/teaching/materials" prefetch={true}><strong>Sample materials</strong><span aria-hidden="true">↗</span></Link>

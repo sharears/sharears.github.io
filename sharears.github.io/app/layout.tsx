@@ -4,7 +4,6 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Sharear Saon | RNA Researcher and Educator",
   description: "Academic portfolio of Sharear Saon—RNA structural biologist, computational researcher, educator, and mentor.",
-  other: { "codex-preview": "development" },
   icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
 };
 
