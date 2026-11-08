@@ -252,3 +252,81 @@
 .researchOverviewFigure{display:block;width:100%;height:auto;margin:0 0 34px}
 .researchOverviewContent .overviewPublicationsLink{margin-top:0}
 @media(max-width:620px){.researchOverviewText{margin-bottom:24px;line-height:1.7}.researchOverviewFigure{margin-bottom:25px}}
+
+
+/* Academic Journey: official university marks, sized without distortion. */
+.journeyInstitutionLogo{display:flex;align-items:center;justify-content:center;width:min(100%,180px);height:47px;margin:0 auto 7px;flex:none}
+.journeyInstitutionLogo img{display:block;max-height:43px;max-width:100%;height:auto;width:auto;object-fit:contain}
+.journeyInstitutionLogo--dhaka{background:#1e245d;border-radius:5px;padding:6px 9px}
+.journeyInstitutionLogo--dhaka img{max-height:31px}
+.journeyInstitutionLogo--slu img{max-height:42px}
+@media(min-width:801px){
+  .homeJourney{height:auto;min-height:192px}
+  .homeJourneyInner{min-height:192px;padding-top:14px;padding-bottom:14px}
+  .homeJourneyTimeline>div{padding-top:17px;padding-bottom:12px}
+}
+@media(max-width:800px){
+  .journeyInstitutionLogo{height:52px;margin-bottom:10px}
+  .journeyInstitutionLogo img{max-height:48px}
+  .journeyInstitutionLogo--dhaka img{max-height:32px}
+}
+
+/* Teaching: provide space for readable content instead of clipping a fixed-height page. */
+@media(min-width:801px){
+  .teachingHomePage,.internalPageHeader+main>.teachingHomePage{
+    height:auto;min-height:calc(100svh - 174px);overflow:visible;
+  }
+  .teachingHomePage .teachingHomeIntro{flex:none;min-height:0}
+  .teachingHomePage .philosophyPanel,.teachingHomePage .experiencePanel{height:auto;min-height:0}
+  .teachingHomePage .experienceList{display:block;flex:none}
+}
+.teachingHomePage .experienceList article{height:auto;align-items:start;gap:clamp(12px,1.5vw,20px);padding:15px 0}
+.teachingHomePage .experienceList .experienceRole{
+  font-size:clamp(14px,1.13vw,16px);line-height:1.45;font-weight:650;
+}
+.teachingHomePage .experienceList p:not(.experienceRole){
+  font-size:clamp(14px,1.13vw,16px);line-height:1.48;
+}
+.teachingHomePage .experienceList span{font-size:12px;line-height:1.4}
+@media(max-width:700px){
+  .teachingHomePage .experienceList article{grid-template-columns:1fr;gap:9px}
+}
+
+/* Teaching achievements: four generous timeline-style blocks. */
+.teachingHomePage .teachingAchievements{
+  display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;
+  max-width:1216px;margin:30px auto 0;padding:0;border:0;
+  border-top:1px solid #9eaa9f;border-left:1px solid #c9c6b9;
+}
+.teachingAchievements .achievementBlock{
+  position:relative;min-width:0;display:flex;flex-direction:column;
+  align-items:flex-start;justify-content:center;gap:7px;
+  padding:22px 22px 20px;border-right:1px solid #c9c6b9;
+  border-bottom:1px solid #c9c6b9;background:rgba(251,250,246,.48);
+}
+.teachingAchievements .achievementBlock:before{
+  content:"";position:absolute;top:-4px;left:22px;width:7px;height:7px;
+  border-radius:50%;background:var(--rust);
+}
+.teachingHomePage .teachingAchievements .achievementBlock strong{
+  display:block;font:700 clamp(17px,1.65vw,22px)/1.22 Helvetica,Arial,sans-serif;
+  letter-spacing:-.025em;color:var(--ink);
+}
+.teachingHomePage .teachingAchievements .achievementBlock span{
+  display:block;font-size:clamp(13px,1.1vw,15px);line-height:1.45;color:#526159;
+}
+.teachingAchievements .achievementEvidenceLink{
+  margin-top:5px;color:var(--forest);font-size:13px;font-weight:700;
+  text-decoration:underline;text-underline-offset:3px;
+}
+.teachingAchievements .achievementEvidenceLink:hover,
+.teachingAchievements .achievementEvidenceLink:focus-visible{color:var(--rust)}
+@media(max-width:1050px){
+  .teachingHomePage .teachingAchievements{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:560px){
+  .teachingHomePage .teachingAchievements{grid-template-columns:1fr}
+  .teachingAchievements .achievementBlock{padding:24px}
+  .teachingHomePage .teachingAchievements .achievementBlock strong{font-size:21px}
+  .teachingHomePage .teachingAchievements .achievementBlock span{font-size:15px}
+}

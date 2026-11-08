@@ -183,10 +183,38 @@ export function PortfolioPage({ view = "home" }: { view?: PortfolioView }) {
             <p className="sectionLabel" id="home-journey-title">Academic journey</p>
           </div>
           <div className="homeJourneyTimeline">
-            <div><span>2022–present</span><h3>Postdoctoral Scholar</h3><p><a href="https://www.psu.edu/" target="_blank" rel="noreferrer">Pennsylvania State University</a></p></div>
-            <div><span>2017–2022</span><h3>Ph.D. in Chemistry</h3><p><a href="https://www.slu.edu/" target="_blank" rel="noreferrer">Saint Louis University</a></p></div>
-            <div><span>2013–2015</span><h3>M.S. in Organic Chemistry</h3><p><a href="https://www.du.ac.bd/" target="_blank" rel="noreferrer">University of Dhaka</a></p></div>
-            <div><span>2009–2013</span><h3>B.S. in Chemistry</h3><p><a href="https://www.du.ac.bd/" target="_blank" rel="noreferrer">University of Dhaka</a></p></div>
+            <div>
+              <div className="journeyInstitutionLogo journeyInstitutionLogo--psu">
+                <img src="https://bellisario.psu.edu/assets/uploads/globals/penn-state-logo.svg" alt="Penn State university mark" loading="lazy" decoding="async" />
+              </div>
+              <span>2022–present</span>
+              <h3>Postdoctoral Scholar</h3>
+              <p><a href="https://www.psu.edu/" target="_blank" rel="noreferrer">Pennsylvania State University</a></p>
+            </div>
+            <div>
+              <div className="journeyInstitutionLogo journeyInstitutionLogo--slu">
+                <img src="https://www.slu.edu/marcom/tools-downloads/-img/logomark/slu-logomark-blue-rgb.png" alt="Saint Louis University mark" loading="lazy" decoding="async" />
+              </div>
+              <span>2017–2022</span>
+              <h3>Ph.D. in Chemistry</h3>
+              <p><a href="https://www.slu.edu/" target="_blank" rel="noreferrer">Saint Louis University</a></p>
+            </div>
+            <div>
+              <div className="journeyInstitutionLogo journeyInstitutionLogo--dhaka">
+                <img src="https://www.du.ac.bd/assets/img/dulogo-light_new.png" alt="University of Dhaka crest and wordmark" loading="lazy" decoding="async" />
+              </div>
+              <span>2013–2015</span>
+              <h3>M.S. in Organic Chemistry</h3>
+              <p><a href="https://www.du.ac.bd/" target="_blank" rel="noreferrer">University of Dhaka</a></p>
+            </div>
+            <div>
+              <div className="journeyInstitutionLogo journeyInstitutionLogo--dhaka">
+                <img src="https://www.du.ac.bd/assets/img/dulogo-light_new.png" alt="University of Dhaka crest and wordmark" loading="lazy" decoding="async" />
+              </div>
+              <span>2009–2013</span>
+              <h3>B.S. in Chemistry</h3>
+              <p><a href="https://www.du.ac.bd/" target="_blank" rel="noreferrer">University of Dhaka</a></p>
+            </div>
           </div>
         </div>
       </section>
@@ -240,13 +268,25 @@ export function PortfolioPage({ view = "home" }: { view?: PortfolioView }) {
           </div>
         </div>
 
-        <div className="experienceStrip teachingFooterStrip">
-          <div><strong>7 semesters</strong><span>Chemistry laboratory teaching</span></div>
-          <div><strong>High school → graduate</strong><span>Students mentored across levels</span></div>
-          <Link className="experienceStatLink" href="/teaching/evidence#cuts-evaluation" prefetch={true} aria-label="View CUTS faculty-observed teaching evidence">
-            <strong>CUTS</strong><span>Certificate in University Teaching Skills</span>
-          </Link>
-          <div><strong>Award-winning</strong><span>Exceptional mentorship recognition</span></div>
+        <div className="experienceStrip teachingFooterStrip teachingAchievements" aria-label="Teaching and mentoring highlights">
+          <div className="achievementBlock">
+            <strong>7 Semesters</strong>
+            <span>Chemistry laboratory teaching</span>
+          </div>
+          <div className="achievementBlock">
+            <strong>High School → Graduate</strong>
+            <span>Students mentored across levels</span>
+          </div>
+          <div className="achievementBlock">
+            <strong>2 Teaching Certificates</strong>
+            <span>CUTS — Saint Louis University</span>
+            <span>CCT — Penn State</span>
+            <Link className="achievementEvidenceLink" href="/teaching/evidence#cuts-evaluation" prefetch={true}>View CUTS teaching evidence ↗</Link>
+          </div>
+          <div className="achievementBlock">
+            <strong>Award-Winning</strong>
+            <span>Exceptional mentorship recognition</span>
+          </div>
         </div>
       </section>
       )}
