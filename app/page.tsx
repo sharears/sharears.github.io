@@ -201,7 +201,7 @@ export function PortfolioPage({ view = "home" }: { view?: PortfolioView }) {
             </div>
             <div>
               <div className="journeyInstitutionLogo journeyInstitutionLogo--dhaka">
-                <img src="https://www.du.ac.bd/assets/img/dulogo-light_new.png" alt="University of Dhaka crest and wordmark" loading="lazy" decoding="async" />
+                <img src="/Dhaka_University_logo.svg" alt="University of Dhaka crest and wordmark" loading="lazy" decoding="async" />
               </div>
               <span>2013–2015</span>
               <h3>M.S. in Organic Chemistry</h3>
@@ -209,7 +209,7 @@ export function PortfolioPage({ view = "home" }: { view?: PortfolioView }) {
             </div>
             <div>
               <div className="journeyInstitutionLogo journeyInstitutionLogo--dhaka">
-                <img src="https://www.du.ac.bd/assets/img/dulogo-light_new.png" alt="University of Dhaka crest and wordmark" loading="lazy" decoding="async" />
+                <img src="/Dhaka_University_logo.svg" alt="University of Dhaka crest and wordmark" loading="lazy" decoding="async" />
               </div>
               <span>2009–2013</span>
               <h3>B.S. in Chemistry</h3>

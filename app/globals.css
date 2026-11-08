@@ -257,8 +257,8 @@
 /* Academic Journey: official university marks, sized without distortion. */
 .journeyInstitutionLogo{display:flex;align-items:center;justify-content:center;width:min(100%,180px);height:47px;margin:0 auto 7px;flex:none}
 .journeyInstitutionLogo img{display:block;max-height:43px;max-width:100%;height:auto;width:auto;object-fit:contain}
-.journeyInstitutionLogo--dhaka{background:#1e245d;border-radius:5px;padding:6px 9px}
-.journeyInstitutionLogo--dhaka img{max-height:31px}
+.journeyInstitutionLogo--dhaka{background:transparent;border-radius:0;padding:0}
+.journeyInstitutionLogo--dhaka img{max-height:43px}
 .journeyInstitutionLogo--slu img{max-height:42px}
 @media(min-width:801px){
   .homeJourney{height:auto;min-height:192px}
@@ -268,7 +268,7 @@
 @media(max-width:800px){
   .journeyInstitutionLogo{height:52px;margin-bottom:10px}
   .journeyInstitutionLogo img{max-height:48px}
-  .journeyInstitutionLogo--dhaka img{max-height:32px}
+  .journeyInstitutionLogo--dhaka img{max-height:48px}
 }
 
 /* Teaching: provide space for readable content instead of clipping a fixed-height page. */
